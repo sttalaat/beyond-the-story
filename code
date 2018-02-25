@@ -1,0 +1,17 @@
++ hi
+- Hello! I'm a bot that can answer your questions about the story "China’s Plastics Boom, Recycling Ban Upend World Recycling System" by Sarah Talaat.  Click any of the buttons below to learn more! If you missed the full story, read it here: ^link("https://docs.google.com/document/d/1Y32Lcn35lPdbmIAUkNTS5wzGW0NJqMiTFSfTDTTCIq4/edit?usp=sharing","China’s Plastics Boom, Recycling Ban Upend World Recycling System")  {@ my button set}
+
++ my button set
+- ^buttons(About the Story, Explore Further, About Sarah) 
+
++ about the story
+- China is facing pressure from environmental activists protesting industrial pollution, increasingly insufficient domestic recycling systems, activists demanding cleaner drinking water, and booming cities straining ageing infrastructure. These competing issues are pushing officials to crack down on recycling imports and to re-examine current drinking water safety policies, and they are driving higher rates of bottled water consumption in the process. Click the "Explore Further" button below to read Financial Times articles related to Sarah's story and the issues mentioned above. {@ my button set}
+
++ explore further
+- China's drinking water, ageing infrastructure and controversial recycling practices have long been topics of interest to reporters at Financial Times. Read some of their stories here and then click the "About Sarah" button below to learn more about the reporter. ^link("https://www.ft.com/content/63cf220c-f8ee-11e7-9b32-d7d59aace167","-> China recyclers grind to halt amid crackdown on imported waste") ^link("https://www.ft.com/content/0977193c-e3fb-11e4-9039-00144feab7de","-> China targets dirty businesses in water pollution action plan")  ^link("https://www.ft.com/content/27f778a8-fb26-11e7-a492-2c9be7f3120a","-> China infrastructure projects fall foul of debt concerns") {@ my button set}
+
++ about sarah
+- Sarah is a master's student in the Global Business Journalism program at Tsinghua University in Beijing, China. She hopes to work as a business reporter focusing on issues related to economics, politics, the environment and health. She is originally from Texas, USA. You can read more about her here: ^link("https://sarahtalaat.com/","Sarah's online portfolio") ^image("https://sarahtalaatdotcom.files.wordpress.com/2018/02/1cun-e59490e69c88e5a9b7018-e68bb7e8b49dsmall.jpg?w=146&h=204&zoom=2") {@ my button set}
+
++ *
+- Oh dear, I don't understand. Maybe try contacting Sarah directly? Send her a direct message with your question: ^link("https://twitter.com/sttalaat","Sarah's Twitter Profile")
